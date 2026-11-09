@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+clock_config.json
+clock_error.log
+*.lnk
